@@ -1,3 +1,3 @@
 # Yazhgar
 
-### 06/02 : puissance4 ajouté
+* 06/02 : `game_puissance4` ajouté
